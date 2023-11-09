@@ -1,0 +1,53 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\pn31vgu\\Desktop\\P_Mastermind-IG_Félix-Sierro\\MasterMind-IG\\MasterMind-IG\\MasterMind-IG.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\pn31vgu\\Desktop\\P_Mastermind-IG_Félix-Sierro\\MasterMind-IG\\MasterMind-IG\\MasterMind-IG.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\pn31vgu\\Desktop\\P_Mastermind-IG_Félix-Sierro\\MasterMind-IG\\MasterMind-IG\\MasterMind-IG.csproj",
+        "projectName": "MasterMind-IG",
+        "projectPath": "C:\\Users\\pn31vgu\\Desktop\\P_Mastermind-IG_Félix-Sierro\\MasterMind-IG\\MasterMind-IG\\MasterMind-IG.csproj",
+        "packagesPath": "C:\\Users\\pn31vgu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\pn31vgu\\Desktop\\P_Mastermind-IG_Félix-Sierro\\MasterMind-IG\\MasterMind-IG\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\pn31vgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net60"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net60": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net60": {}
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
